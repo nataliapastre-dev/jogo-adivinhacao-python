@@ -1,7 +1,7 @@
 # 🎮 Jogo de Adivinhação em Python
 
 <p align="center">
-  <img src="https://i.postimg.cc/PqWLBBKn/Chat-GPT-Image-11-de-mar-de-2026-13-42-47.png" width="450">
+  <img src="https://i.postimg.cc/PqWLBBKn/Chat-GPT-Image-11-de-mar-de-2026-13-42-47.png" width="600">
 </p>
 Projeto desenvolvido em **Python** com interface gráfica utilizando **Tkinter**.
 
