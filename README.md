@@ -1,8 +1,10 @@
 # 🎮 Jogo de Adivinhação em Python
 
+![Jogo de Adivinhação](https://i.postimg.cc/PqWLBBKn/Chat-GPT-Image-11-de-mar-de-2026-13-42-47.png)
+
 Projeto desenvolvido em **Python** com interface gráfica utilizando **Tkinter**.
 
-O objetivo do jogo é adivinhar o número secreto gerado aleatoriamente pelo sistema.
+O objetivo do jogo é adivinhar o **número secreto gerado aleatoriamente pelo sistema**.
 
 ---
 
@@ -27,18 +29,7 @@ O objetivo do jogo é adivinhar o número secreto gerado aleatoriamente pelo sis
 
 ## ▶️ Como executar o projeto
 
-1️⃣ Clone o repositório
+### 1️⃣ Clone o repositório
 
 ```bash
 git clone https://github.com/nataliapastre-dev/jogo-adivinhacao-python.git
-
-2️⃣ Entre na pasta do projeto
-
-cd jogo-adivinhacao-python
-
-3️⃣ Instale as dependências
-pip install -r requirements.txt
-
-4️⃣ Execute o jogo
-
-python jogo_interface.py
